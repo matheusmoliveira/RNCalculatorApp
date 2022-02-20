@@ -1,4 +1,4 @@
-# React Native - calculatorApp
+# React Native - CalculatorApp
 
 Getting started
 
