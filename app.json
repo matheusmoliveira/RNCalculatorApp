@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "calc_otaku_app",
-    "slug": "calc_otaku_app",
+    "name": "calculatorApp",
+    "slug": "calculatorApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
