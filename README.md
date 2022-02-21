@@ -1,20 +1,48 @@
 # React Native - CalculatorApp
 
-Getting started
+📥 Getting started
 
-1. Clone the repo:
-
-```
-git clone https://github.com/matheusmoliveira/calculatorApp.git
+1. Clone the repo and access the directory:
 
 ```
-
-2. Create a new React Native app for each project
+git clone https://github.com/matheusmoliveira/RNCalculatorApp.git && cd RNCalculatorApp
 
 ```
-react-native init RNCalculatorApp
-react-native init RNCalculatorApp
+
 ```
+# Instalando as dependências
+$ yarn
+
+# Executanto aplicação
+$ yarn start
+```
+
+## :muscle: Contribuir
+
+Faça o `fork` e clone o projeto a partir do seu usuário.
+
+```bash
+# Clonando projeto
+$ git clone https://github.com/YOUR-USERNAME/RNCalculatorApp.git
+
+# Criando um branch
+$ git branch minha-alteracao
+
+# Acessando o novo branch
+$ git checkout -b minha-alteracao
+
+# Adicionando os arquivos alterados
+$ git add .
+
+# Criando commit e a mensagem
+$ git commit -m "Corrigindo...."
+
+# Enviando alterações para o brach
+$ git push origin minha-alteracao
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) para mais detalhes.
 
 ## Donation
 
