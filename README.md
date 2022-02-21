@@ -5,47 +5,49 @@
 
 ## 📥 Getting started
 
-Clone the repo and access the directory:
+1. Clone the repo and access the directory:
 
 ```
-git clone https://github.com/matheusmoliveira/RNCalculatorApp.git && cd RNCalculatorApp
+$ git clone https://github.com/matheusmoliveira/RNCalculatorApp.git && cd RNCalculatorApp
 ```
 
+2. install the dependencies:
+
 ```
-# Instalando as dependências
+# Installing the dependencies
 $ yarn
 
-# Executanto aplicação
+# Running application
 $ yarn start
 ```
 
 ## :muscle: Contribute
 
-Faça o `fork` e clone o projeto a partir do seu usuário.
+`fork` and clone the project from your user.
 
 ```
-# Clonando projeto
+# Cloning project
 $ git clone https://github.com/YOUR-USERNAME/RNCalculatorApp.git
 
-# Criando um branch
-$ git branch minha-alteracao
+# Creating a branch
+$ git branch my-change
 
-# Acessando o novo branch
-$ git checkout -b minha-alteracao
+# Accessing the new branch
+$ git checkout -b my-change
 
-# Adicionando os arquivos alterados
+# Adding the changed files
 $ git add .
 
-# Criando commit e a mensagem
-$ git commit -m "Corrigindo...."
+# Creating commit and message
+$ git commit -m "Correcting...."
 
-# Enviando alterações para o brach
-$ git push origin minha-alteracao
+# Sending changes to the branch
+$ git push origin my-change
 ```
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) para mais detalhes.
+This project is under the MIT license. see the file [LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) for more details.
 
 ## Donation
 
