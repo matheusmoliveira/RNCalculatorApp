@@ -16,7 +16,7 @@ $ yarn
 $ yarn start
 ```
 
-## :muscle: Contribuir
+## :muscle: Contribute
 
 Faça o `fork` e clone o projeto a partir do seu usuário.
 
