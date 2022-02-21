@@ -21,7 +21,7 @@ $ yarn start
 
 Faça o `fork` e clone o projeto a partir do seu usuário.
 
-```bash
+```
 # Clonando projeto
 $ git clone https://github.com/YOUR-USERNAME/RNCalculatorApp.git
 
@@ -39,6 +39,7 @@ $ git commit -m "Corrigindo...."
 
 # Enviando alterações para o brach
 $ git push origin minha-alteracao
+```
 
 ## 📝 Licença
 
