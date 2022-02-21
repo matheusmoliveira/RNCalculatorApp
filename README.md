@@ -6,7 +6,6 @@
 
 ```
 git clone https://github.com/matheusmoliveira/RNCalculatorApp.git && cd RNCalculatorApp
-
 ```
 
 ```
