@@ -1,6 +1,6 @@
 # React Native - CalculatorApp
 
-📥 Getting started
+## 📥 Getting started
 
 1. Clone the repo and access the directory:
 
